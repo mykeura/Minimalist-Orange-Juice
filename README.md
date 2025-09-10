@@ -1,48 +1,68 @@
 # Minimalist Orange Juice 🍊
 
-Un tema minimalista para Google Chrome con una paleta de colores inspirada en el jugo de naranja, diseñado para una experiencia de navegación serena y elegante.
+The official Minimalist Orange Juice theme for Chromium-based browsers. A minimalist theme with a color palette inspired by Orange Juice, designed for a serene and elegant browsing experience.
 
 ![Minimalist Orange Juice Theme Preview](images/preview.png)
 
-## 🎨 Características
+![Official Source](https://img.shields.io/badge/Source-Official%20Repository-brightgreen.svg?style=flat-square) ![License: GPLv3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)
 
-- **Paleta de Colores**: Tonos suaves de orange juice y neutros
-- **Diseño Minimalista**: Interfaz limpia y moderna
-- **Fácil Instalación**: Compatible con Chrome Manifest V3
-- **Personalización**: Colores armoniosos que reducen la fatiga visual
+---
 
-## 📦 Instalación
+## 🛡️ Official Derivatives Policy
 
-### Método Manual
-1. Descarga el archivo `.zip` del tema
-2. Abre `chrome://extensions/` en tu navegador Chrome
-3. Activa el "Modo de desarrollador"
-4. Haz clic en "Cargar descomprimida" y selecciona la carpeta del tema
+This software is released under the **GNU General Public License v3.0 (GPLv3)**.
 
-### Método Rápido
-[Tema disponible en Chrome Web Store](https://chromewebstore.google.com/detail/minimalist-orange-juice/cphbblmnejdobpelaamimglcmjkcccnj)
+In addition to the terms of the GPLv3:
 
-## 🖌️ Personalización
+1. **Author Attribution:** You must give appropriate credit to the original author, **Miguel Euraque**, provide a link to this official repository, and indicate if changes were made.
+2. **Naming Derivative Works:** To prevent user confusion and protect the project's integrity, you may **not** name your derivative work using the "Minimalist" brand name or any other name that implies it is the original work, an official version, or endorsed by the original author. For example, you may **not** name your derivative work "Minimalist Orange Juice Pro" or "Official Minimalist Theme".
+3. **Clear Differentiation:** If you distribute a modified version, you must clearly label it as a **"modified version of Minimalist Orange Juice by Miguel Euraque"**.
 
-El tema incluye configuraciones de color para:
-- Fondo de Nueva Pestaña
-- Texto
-- Enlaces
-- Secciones
-- Botones
+These conditions are based on the author's right to protect the integrity of their work and prevent misrepresentation.
 
-## 📜 Licencia
+## 🎨 Features
 
-Distribuido bajo Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+- **Color Palette:** Soft shades of Orange Juice and neutrals
+- **Minimalist Design:** Clean and modern interface
+- **Easy Installation:** Compatible with Chrome Manifest V3
+- **Customization:** Harmonious colors that reduce eye strain
 
-## 👤 Autor
+## 📦 Installation
+
+### Direct Download (Recommended)
+
+1. Download the `.crx` file from the [Official Website](https://vidaextrema.org/minimalist/).
+2. Open `chrome://extensions` in your browser.
+3. Enable **Developer mode** (toggle in the top right).
+4. Drag and drop the downloaded `.crx` file onto the extensions page.
+
+### From Source
+
+1. Clone this repository.
+2. Open `chrome://extensions` and enable Developer mode.
+3. Click "Load unpacked" and select the theme folder.
+
+## 📜 License Change Notice
+
+Previous private versions of this code used a modified MIT license. As of this first public release, the project is now licensed under the **GNU General Public License v3.0**. This change strengthens the commitment to open collaboration and protects the project from misappropriation.
+
+## 👤 Author
 
 **Miguel Euraque**
 
-SEO Técnico y Desarrollador Web. Creo experiencias digitales innovadoras, optimizando contenido y diseño para potenciar tu presencia en línea.
+_Teacher, Technical SEO and Web Developer._
 
-## 🔗 Más Temas
+I transform ideas into robust and visible digital experiences. My work focuses on the intersection between technology and education, with the goal of democratizing knowledge and making the web a more inclusive space.
 
-Explora más temas de la colección Minimalist en mi perfil de GitHub.
+I am passionate about creating open projects that promote collaboration, learning, and accessibility. I believe that code and the web are powerful tools for expanding horizons, connecting people, and building a more equitable digital future.
 
-**Nota**: Este tema es parte de la serie Minimalist. No se permite el uso no autorizado del nombre o marca.
+- **Website:** [Vida Extrema](https://vidaextrema.org/)
+- **GitHub:** [mykeura](https://github.com/mykeura)
+
+## 🔗 More Themes
+
+Explore more themes from the Official Minimalist Collection on [Minimalist themes](https://vidaextrema.org/minimalist/).
+
+---
+
+*This is the official repository. For support, questions, or to verify authenticity, please visit the official source.*
