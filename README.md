@@ -1,4 +1,4 @@
-# Minimalist Orange Juice 🍊
+# Minimalist Orange Juice
 
 A minimal Chrome theme in a gentle, orange palette, by Miguel Euraque.
 
